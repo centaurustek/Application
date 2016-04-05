@@ -35,7 +35,7 @@ salt- to write infrasturuture code
 you should use some of your python scripts shell scripts to do some configuration.
 ##Infrastructure 
 vmware, physicalmachine. aws, rackspace, hypervisor, softlayer 
-##Application Stack-
+##Application Stack
 Linux, 
 #OS Webserver 
 httpd, ngnix, 
