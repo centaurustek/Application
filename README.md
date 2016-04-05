@@ -33,21 +33,21 @@ salt- to write infrasturuture code
 
 ##Deploy scripts: 
 you should use some of your python scripts shell scripts to do some configuration.
-##Infrastructure- 
+##Infrastructure 
 vmware, physicalmachine. aws, rackspace, hypervisor, softlayer 
 ##Application Stack-
 Linux, 
-#OS Webserver- 
+#OS Webserver 
 httpd, ngnix, 
-#Loadbalancer- 
+#Loadbalancer
 HAproxy, F5, bigip, elb - distrubute the load amongs healthy node avaiable
 #Application Server-
 tomcat, oracle weblogic is the apps server where you can deploy war file - would host applicaiton 
-#Databases- 
+#Databases 
 apps connect to databases - oracle. mysql, postgres, mangodb cassandradb 
 #cacheservers- 
 REDIS,memcache- store temporaty cache data 
-#monitering servers- 
+#monitering servers
 Appdynamics, nagios, newrelic 
 monitering of Server health 
 #loggin
