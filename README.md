@@ -1,4 +1,6 @@
 # Applicaiton
+##OS
+Redhat,centos,ubuntu,debian,fedora, windows, MACOS
 ##Version Controls 
 Github, SVN, Clearcase, bitbucket, gitlab 
 Releases: http://semver.org 
@@ -36,7 +38,7 @@ you should use some of your python scripts shell scripts to do some configuratio
 ##Infrastructure 
 vmware, physicalmachine. aws, rackspace, hypervisor, softlayer 
 ##Application Stack
-Linux, 
+LAMP
 #OS Webserver 
 httpd, ngnix, 
 #Loadbalancer
