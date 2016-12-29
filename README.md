@@ -54,3 +54,5 @@ monitering of Server health
 splunk, loggly- reporting logs 
 #alerting tools
 pager duty- sending emails notification to the respecitve teams. 
+#queue service
+kafka, rabbitmq
